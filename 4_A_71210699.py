@@ -22,4 +22,3 @@ print("TOTAL RUJAK CINGUR       : Rp " + str(h3))
 total = h1 + h2 + h3
 
 print("Jumlah total biaya yang harus dibayar adalah Rp " + str(total))
-
